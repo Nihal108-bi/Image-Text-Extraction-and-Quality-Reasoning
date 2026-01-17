@@ -126,7 +126,8 @@ These features are intentionally **simple and interpretable**.
  'llm_reasoning_summary': "The blur analysis clearly indicates the image is not blurry (laplacian_variance: 247.78, is_blurry: false), which is a strong positive signal for image sharpness. However, the brightness analysis shows the image is overexposed (mean_brightness: 216.47, lighting_condition: 'overexposed'), which is a significant issue as it can lead to washed-out areas and loss of detail. Text was detected, implying that at least some content is clear enough to be read. The edge density is noted but without context for what constitutes a 'good' or 'bad' value, it is not used to determine quality score or signals. The overall score reflects a balance between the positive aspect of sharpness and the negative impact of overexposure."}
 ```
 ---
-
+## 🎥 Watch the Demo
+[![Watch Demo](https://youtu.be/19wrtaJdudo)](https://youtu.be/19wrtaJdudo)
 
 ## Design Decisions
 
