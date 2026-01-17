@@ -1,0 +1,12 @@
+
+{
+"image_quality_score": 0.95,
+ "issues_detected": [],
+ "positive_signals": ["Image is sharp and not blurry (laplacian_variance: 377.83).",
+  "Lighting condition is normal (mean_brightness: 106.8).",
+  "High edge density (15.2536) suggests good detail.",
+  "Multiple lines of text are clearly detected, indicating good legibility and content clarity (e.g., 'RECRUITING', 'THE ROYAL WESSEX YEOMANRY', 'email: rwXY-bsqn-pSao@moduk')."],
+ "final_verdict": "The image demonstrates excellent technical quality with no blur, normal lighting, and good detail. The detected text is clear and suggests the image is a well-captured informational or recruitment poster.",
+ "confidence": 0.98,
+ "llm_reasoning_summary": "The analysis of structured features indicates a high-quality image. The blur analysis shows the image is not blurry with a high Laplacian variance (377.83), signifying excellent sharpness. Brightness is normal (106.8 mean brightness), and edge density is good (15.2536), suggesting sufficient detail. The extensive and coherent text detected, including organizational names, recruitment keywords, and contact details, implies the content is highly legible and likely relevant to its apparent purpose (e.g., a recruitment poster for 'THE ROYAL WESSEX YEOMANRY'). No issues were detected, and all signals are positive, leading to a strong confidence in the high quality of the image."
+}
