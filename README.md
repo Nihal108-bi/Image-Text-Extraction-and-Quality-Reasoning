@@ -45,6 +45,7 @@ Structured JSON Output
 It reasons only over **explicit, structured features**, improving interpretability and control.
 
 ---
+```
 ## Repository Structure
 
 ├── notebook/
@@ -58,6 +59,7 @@ It reasons only over **explicit, structured features**, improving interpretabili
 ├── Technical_Writeup_Image_Quality_Pipeline.pdf
 ├── README.md
 
+```
 
 ## Features Extracted
 
