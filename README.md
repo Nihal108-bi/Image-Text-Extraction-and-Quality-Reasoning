@@ -99,7 +99,7 @@ These features are intentionally **simple and interpretable**.
 ---
 
 ## Example Output
-![OCR sample image 1](Images\Army_Reserves_Recruitment_Banner_MOD_45156284.jpg)
+![OCR sample image 1](Images/Army_Reserves_Recruitment_Banner_MOD_45156284.jpg)
 
 ```json
 {'image_quality_score': 0.95,
@@ -113,7 +113,7 @@ These features are intentionally **simple and interpretable**.
  'llm_reasoning_summary': "The analysis of structured features indicates a high-quality image. The blur analysis shows the image is not blurry with a high Laplacian variance (377.83), signifying excellent sharpness. Brightness is normal (106.8 mean brightness), and edge density is good (15.2536), suggesting sufficient detail. The extensive and coherent text detected, including organizational names, recruitment keywords, and contact details, implies the content is highly legible and likely relevant to its apparent purpose (e.g., a recruitment poster for 'THE ROYAL WESSEX YEOMANRY'). No issues were detected, and all signals are positive, leading to a strong confidence in the high quality of the image."}
 ```
 
-![OCR sample image 2](Images\sample.jpg)
+![OCR sample image 2](Images/sample.jpg)
 ```json
 {'image_quality_score': 0.6,
  'issues_detected': ['Image is overexposed, potentially obscuring details.'],
